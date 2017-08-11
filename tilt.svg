@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1971px" height="1024px" viewBox="0 0 1971 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tilt-word-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tilt-word-white">
+            <text id="Tilt" font-family="HelveticaNeue, Helvetica Neue" font-size="488" font-weight="normal" letter-spacing="14" fill="#FFFFFF">
+                <tspan x="1024" y="693">Tilt</tspan>
+            </text>
+            <g id="tilt" transform="translate(256.000000, 256.000000)" fill="#F73A6D">
+                <path d="M17.0004875,512 C-0.672893729,512 -4.87027134,501.870271 7.62342704,489.376573 L489.376573,7.62342704 C501.871147,-4.8711467 512,-0.665004321 512,17.0004875 L512,479.999512 C512,497.672894 497.665004,512 479.999512,512 L17.0004875,512 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
