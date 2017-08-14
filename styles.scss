@@ -1,0 +1,43 @@
+---
+---
+
+body {
+  background: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+a {
+  color: #F73A6D;
+  text-decoration: none;
+}
+
+#splash {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+
+  > img {
+    max-width: 60%;
+  }
+}
+
+#contact {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 1em;
+
+  p {
+    margin: 0;
+  }
+}
