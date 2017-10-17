@@ -2,5 +2,5 @@ language: ruby
 rvm:
   - 2.4.0
 script:
-  - github-pages health-check
-  - jekyll build
+  - bundle exec github-pages health-check
+  - bundle exec jekyll build
