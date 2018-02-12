@@ -1,0 +1,4 @@
+compress_html:
+  startings: all
+  endings: all
+  comments: all
