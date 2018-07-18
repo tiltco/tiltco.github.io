@@ -1,6 +1,6 @@
 title: Tilt Labs
 description: We build cool stuff
-url: http://tilt.sh
+url: https://tilt.sh
 
 plugins:
   - jekyll-seo-tag
